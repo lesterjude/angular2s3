@@ -1,6 +1,7 @@
-# Angular2S3 ![Build Status](https://codebuild.eu-west-2.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiT21mTm9zVjhzYnBlUnFveUE1ZUNTUEt0ZWJwemFpY0ZzUkw4ZEpCSStwT05mZ1g0VE9vb2U3bk9NTmt5Q1dFZ3h1ajNPOFhxN3JkOHBoOHYrZ2lTSlhZPSIsIml2UGFyYW1ldGVyU3BlYyI6IkN1Z0dOWmlBd3pscG4wSloiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=master)
+# Angular2S3 ![Build Status](https://codebuild.eu-west-2.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiT21mTm9zVjhzYnBlUnFveUE1ZUNTUEt0ZWJwemFpY0ZzUkw4ZEpCSStwT05mZ1g0VE9vb2U3bk9NTmt5Q1dFZ3h1ajNPOFhxN3JkOHBoOHYrZ2lTSlhZPSIsIml2UGFyYW1ldGVyU3BlYyI6IkN1Z0dOWmlBd3pscG4wSloiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=main)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.5.&nbsp;
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.5. &nbsp;
+
 This project is hosted in S3 via AWS Code Pipeline.
 
 ## Code scaffolding

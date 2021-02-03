@@ -10,3 +10,5 @@ Run `ng generate component component-name` to generate a new component. You can 
 ## Changelogs
 * 02.02.21 - Generated new Angular App
 * 03.02.21 - Initial checkin to new Git repo
+* 03.02.21 - Following [Angular to S3 Guide](https://indepth.dev/posts/1231/automate-angular-application-deployment-via-aws-codepipeline-2)
+* 03.02.21 - Following [Adding Google Adsense to Angular Guide](https://www.ventrips.com/blog/how-to-add-google-adsense-in-angular-to-make-passive-income-online)

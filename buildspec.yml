@@ -24,4 +24,4 @@ artifacts:
   files:
     - "**/*"
   discard-paths: no
-  base-directory: dist/angular2s3
+  base-directory: dist/Angular2S3

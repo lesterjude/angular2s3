@@ -1,7 +1,7 @@
 # Angular2S3
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.5.
-This project is hosted in S3 via Code Pipeline.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.5.&nbsp;
+This project is hosted in S3 via AWS Code Pipeline.
 
 ## Code scaffolding
 
